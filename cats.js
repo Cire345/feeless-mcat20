@@ -14,7 +14,7 @@ const gasLimit = 300000;
 const gasPrice = '150'
 
 const wrappedIDs = [];
-d
+
 (async () => {
     const tx = {
         from: address,
